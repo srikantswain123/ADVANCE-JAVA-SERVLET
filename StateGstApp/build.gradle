@@ -1,0 +1,16 @@
+
+plugins {
+    // Apply the java-library plugin to add support for Java Library
+    id 'war'
+}
+
+repositories {
+    // Use jcenter for resolving dependencies.
+    // You can declare any Maven/Ivy/file repository here.
+    jcenter()
+}
+
+dependencies {
+    // https://mvnrepository.com/artifact/javax.servlet/javax.servlet-api
+implementation group: 'javax.servlet', name: 'javax.servlet-api', version: '4.0.1'
+}

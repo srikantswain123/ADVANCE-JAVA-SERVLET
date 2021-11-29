@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="DynamicIstantiation-newInstanceMetthod-POC">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="DynamicIstantiation-newInstanceMetthod-POC"/>
+        <property name="java-output-path" value="/DynamicIstantiation-newInstanceMetthod-POC/build/classes"/>
+    </wb-module>
+</project-modules>
